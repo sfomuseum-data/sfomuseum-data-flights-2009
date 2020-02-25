@@ -1,0 +1,76 @@
+{
+  "id": 1562120921,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2009-10-16T18:21:40",
+    "edtf:inception": "2009-10-16~",
+    "flysfo:airline": "G4",
+    "flysfo:date": "2009-10-16",
+    "flysfo:event": "A",
+    "flysfo:flight_number": "G44165",
+    "flysfo:journey": "ICT-SFO",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-97.426862,37.653637",
+    "geom:latitude": 37.6358135,
+    "geom:longitude": -109.89890249999999,
+    "iata:airline": "G4",
+    "icao:aircraft": "MD83",
+    "icao:airline": "AAY",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159291293,
+    "sfomuseum:airline_id": 1159283831,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102531803,
+    "sfomuseum:flight_id": "20091016-A-AAY-4165",
+    "sfomuseum:flight_number": [
+      "G44165", 
+      "AAY4165"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      1562120921, 
+      1159396337, 
+      102087579, 
+      85688637, 
+      85633793, 
+      85922583
+    ],
+    "wof:country": "US",
+    "wof:created": 1582667987,
+    "wof:geomhash": "28fb1a7f89798ee659e3a81901f529b6",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159396337,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1562120921,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1562120921,
+    "wof:lastmodified": 1582667987,
+    "wof:name": "AAY4165 (ICT-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2009",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    37.61799, 
+    -97.426862, 
+    37.653637
+  ],
+  "geometry": {"coordinates":[[-97.426862,37.653637],[-122.370943,37.61799]],"type":"MultiPoint"}
+}
