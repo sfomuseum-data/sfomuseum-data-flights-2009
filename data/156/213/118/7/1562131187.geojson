@@ -2,6 +2,10 @@
   "id": 1562131187,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-10-24",
+    "date:cessation_upper": "2009-10-24",
+    "date:inception_lower": "2009-10-01",
+    "date:inception_upper": "2009-10-31",
     "edtf:cessation": "2009-10-24T11:04:42",
     "edtf:inception": "2009-10-24~",
     "flysfo:airline": "NW",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531131,
     "sfomuseum:flight_id": "20091024-A-NWA-365",
     "sfomuseum:flight_number": [
-      "NW365", 
+      "NW365",
       "NWA365"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1562131187, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1159396337, 
-      85688637, 
-      102191575, 
+      102527513,
+      85633793,
+      102087579,
+      1159396337,
+      85688637,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562131187,
-    "wof:lastmodified": 1582668094,
+    "wof:lastmodified": 1717011347,
     "wof:name": "NWA365 (MSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1545154907,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-12-19",
+    "date:cessation_upper": "2009-12-19",
+    "date:inception_lower": "2009-12-01",
+    "date:inception_upper": "2009-12-31",
     "edtf:cessation": "2009-12-19T13:52:50",
     "edtf:inception": "2009-12-19~",
     "flysfo:airline": "KL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102542801,
     "sfomuseum:flight_id": "20091219-A-KLM-605",
     "sfomuseum:flight_number": [
-      "KL605", 
+      "KL605",
       "KLM605"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1159396337, 
-      102087579, 
-      1545154907, 
-      85688637, 
-      102527513, 
-      85633793, 
+      102191575,
+      1159396337,
+      102087579,
+      85688637,
+      102527513,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545154907,
-    "wof:lastmodified": 1582668854,
+    "wof:lastmodified": 1717011312,
     "wof:name": "KLM605 (AMS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    4.782907, 
+    -122.370943,
+    37.61799,
+    4.782907,
     52.314791
   ],
   "geometry": {"coordinates":[[4.782907,52.314791],[-122.370943,37.61799]],"type":"MultiPoint"}

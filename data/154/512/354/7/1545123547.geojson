@@ -2,6 +2,10 @@
   "id": 1545123547,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-11-01",
+    "date:cessation_upper": "2009-11-30",
+    "date:inception_lower": "2009-11-25",
+    "date:inception_upper": "2009-11-25",
     "edtf:cessation": "2009-11-25~",
     "edtf:inception": "2009-11-25T12:32:25",
     "flysfo:airline": "JL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20091125-D-JAL-1",
     "sfomuseum:flight_number": [
-      "JL1", 
+      "JL1",
       "JAL1"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      85633793, 
-      85922583, 
-      1159396337, 
-      102191575, 
-      1545123547, 
+      85688637,
+      102087579,
+      85633793,
+      85922583,
+      1159396337,
+      102191575,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545123547,
-    "wof:lastmodified": 1582668527,
+    "wof:lastmodified": 1717011307,
     "wof:name": "JAL1 (SFO-NRT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.755744, 
-    140.395257, 
+    -122.370943,
+    35.755744,
+    140.395257,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[140.395257,35.755744]],"type":"MultiPoint"}

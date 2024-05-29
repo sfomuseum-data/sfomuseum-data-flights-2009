@@ -2,6 +2,10 @@
   "id": 1561879115,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-04-01",
+    "date:cessation_upper": "2009-04-30",
+    "date:inception_lower": "2009-04-29",
+    "date:inception_upper": "2009-04-29",
     "edtf:cessation": "2009-04-29~",
     "edtf:inception": "2009-04-29T11:06:19",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20090429-D-UAL-657T",
     "sfomuseum:flight_number": [
-      "UA657T", 
+      "UA657T",
       "UAL657T"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      1159396337, 
-      102191575, 
-      102087579, 
-      85688637, 
-      102527513, 
-      1561879115
+      85633793,
+      85922583,
+      1159396337,
+      102191575,
+      102087579,
+      85688637,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582664446,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561879115,
-    "wof:lastmodified": 1582664446,
+    "wof:lastmodified": 1717011328,
     "wof:name": "UAL657T (SFO-YVR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792, 
-    37.61799, 
-    -122.370943, 
+    -123.1792,
+    37.61799,
+    -122.370943,
     49.19333
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-123.1792,49.19333]],"type":"MultiPoint"}

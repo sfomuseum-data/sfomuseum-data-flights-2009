@@ -2,6 +2,10 @@
   "id": 1561813849,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-03-01",
+    "date:cessation_upper": "2009-03-31",
+    "date:inception_lower": "2009-03-11",
+    "date:inception_upper": "2009-03-11",
     "edtf:cessation": "2009-03-11~",
     "edtf:inception": "2009-03-11T02:17:43",
     "flysfo:airline": "KE",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20090311-D-KAL-214",
     "sfomuseum:flight_number": [
-      "KE214", 
+      "KE214",
       "KAL214"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102087579, 
-      1561813849, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102191575, 
+      1159396337,
+      102087579,
+      85922583,
+      85688637,
+      102527513,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561813849,
-    "wof:lastmodified": 1582663460,
+    "wof:lastmodified": 1717011320,
     "wof:name": "KAL214 (SFO-ANC)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -149.968401, 
-    37.61799, 
-    -122.370943, 
+    -149.968401,
+    37.61799,
+    -122.370943,
     61.173606
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-149.968401,61.173606]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1561825259,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-03-01",
+    "date:cessation_upper": "2009-03-31",
+    "date:inception_lower": "2009-03-19",
+    "date:inception_upper": "2009-03-19",
     "edtf:cessation": "2009-03-19~",
     "edtf:inception": "2009-03-19T15:54:22",
     "flysfo:airline": "NW",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20090319-D-NWA-354",
     "sfomuseum:flight_number": [
-      "NW354", 
+      "NW354",
       "NWA354"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102087579, 
-      85688637, 
-      85922583, 
-      85633793, 
-      1159396337, 
-      102191575, 
-      1561825259
+      102527513,
+      102087579,
+      85688637,
+      85922583,
+      85633793,
+      1159396337,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582663640,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561825259,
-    "wof:lastmodified": 1582663640,
+    "wof:lastmodified": 1717011322,
     "wof:name": "NWA354 (SFO-MSP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-93.200317,44.883321]],"type":"MultiPoint"}

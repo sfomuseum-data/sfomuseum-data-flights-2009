@@ -2,6 +2,10 @@
   "id": 1562122141,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-10-17",
+    "date:cessation_upper": "2009-10-17",
+    "date:inception_lower": "2009-10-01",
+    "date:inception_upper": "2009-10-31",
     "edtf:cessation": "2009-10-17T17:29:06",
     "edtf:inception": "2009-10-17~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20091017-A-UAL-128",
     "sfomuseum:flight_number": [
-      "UA128", 
+      "UA128",
       "UAL128"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      85922583, 
-      102527513, 
-      102191575, 
-      1159396337, 
-      102087579, 
-      1562122141
+      85688637,
+      85633793,
+      85922583,
+      102527513,
+      102191575,
+      1159396337,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582668000,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562122141,
-    "wof:lastmodified": 1582668000,
+    "wof:lastmodified": 1717011347,
     "wof:name": "UAL128 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

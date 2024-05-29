@@ -2,6 +2,10 @@
   "id": 1545062849,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-05-24",
+    "date:cessation_upper": "2009-05-24",
+    "date:inception_lower": "2009-05-01",
+    "date:inception_upper": "2009-05-31",
     "edtf:cessation": "2009-05-24T19:59:41",
     "edtf:inception": "2009-05-24~",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102526927,
     "sfomuseum:flight_id": "20090524-A-DAL-9795",
     "sfomuseum:flight_number": [
-      "DL9795", 
+      "DL9795",
       "DAL9795"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102527513, 
-      85688637, 
-      1159396337, 
-      102191575, 
-      85633793, 
-      85922583, 
-      1545062849
+      102087579,
+      102527513,
+      85688637,
+      1159396337,
+      102191575,
+      85633793,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1582665065,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545062849,
-    "wof:lastmodified": 1582665065,
+    "wof:lastmodified": 1717011302,
     "wof:name": "DAL9795 (ATL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-84.430686,33.636518],[-122.370943,37.61799]],"type":"MultiPoint"}

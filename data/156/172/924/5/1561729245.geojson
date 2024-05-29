@@ -2,6 +2,10 @@
   "id": 1561729245,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-01-01",
+    "date:cessation_upper": "2009-01-31",
+    "date:inception_lower": "2009-01-03",
+    "date:inception_upper": "2009-01-03",
     "edtf:cessation": "2009-01-03~",
     "edtf:inception": "2009-01-03T06:18:55",
     "flysfo:airline": "CO",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20090103-D-COA-416",
     "sfomuseum:flight_number": [
-      "CO416", 
+      "CO416",
       "COA416"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      85922583, 
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1561729245
+      1159396337,
+      85922583,
+      102527513,
+      85688637,
+      102191575,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582662291,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561729245,
-    "wof:lastmodified": 1582662291,
+    "wof:lastmodified": 1717011311,
     "wof:name": "COA416 (SFO-IAH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}

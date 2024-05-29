@@ -2,6 +2,10 @@
   "id": 1561907165,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-05-19",
+    "date:cessation_upper": "2009-05-19",
+    "date:inception_lower": "2009-05-01",
+    "date:inception_upper": "2009-05-31",
     "edtf:cessation": "2009-05-19T22:24:35",
     "edtf:inception": "2009-05-19~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20090519-A-SWA-921",
     "sfomuseum:flight_number": [
-      "WN921", 
+      "WN921",
       "SWA921"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85688637, 
-      1159396337, 
-      85922583, 
-      102191575, 
-      102087579, 
-      1561907165, 
+      85633793,
+      85688637,
+      1159396337,
+      85922583,
+      102191575,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561907165,
-    "wof:lastmodified": 1582664978,
+    "wof:lastmodified": 1717011329,
     "wof:name": "SWA921 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

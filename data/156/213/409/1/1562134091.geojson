@@ -2,6 +2,10 @@
   "id": 1562134091,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-10-01",
+    "date:cessation_upper": "2009-10-31",
+    "date:inception_lower": "2009-10-26",
+    "date:inception_upper": "2009-10-26",
     "edtf:cessation": "2009-10-26~",
     "edtf:inception": "2009-10-26T14:20:29",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20091026-D-SWA-1494",
     "sfomuseum:flight_number": [
-      "WN1494", 
+      "WN1494",
       "SWA1494"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      1562134091, 
-      85922583, 
-      1159396337, 
-      102191575, 
-      102087579, 
+      85688637,
+      102527513,
+      85922583,
+      1159396337,
+      102191575,
+      102087579,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562134091,
-    "wof:lastmodified": 1582668125,
+    "wof:lastmodified": 1717011350,
     "wof:name": "SWA1494 (SFO-MDW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.745903,41.787532]],"type":"MultiPoint"}

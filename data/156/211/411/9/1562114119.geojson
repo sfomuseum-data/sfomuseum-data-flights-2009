@@ -2,6 +2,10 @@
   "id": 1562114119,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-10-11",
+    "date:cessation_upper": "2009-10-11",
+    "date:inception_lower": "2009-10-01",
+    "date:inception_upper": "2009-10-31",
     "edtf:cessation": "2009-10-11T19:40:02",
     "edtf:inception": "2009-10-11~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20091011-A-UAL-161",
     "sfomuseum:flight_number": [
-      "UA161", 
+      "UA161",
       "UAL161"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      102527513, 
-      85922583, 
-      85633793, 
-      1562114119, 
-      85688637, 
-      102191575, 
+      1159396337,
+      102527513,
+      85922583,
+      85633793,
+      85688637,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562114119,
-    "wof:lastmodified": 1582667919,
+    "wof:lastmodified": 1717011349,
     "wof:name": "UAL161 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

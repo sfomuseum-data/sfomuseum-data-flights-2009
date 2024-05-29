@@ -2,6 +2,10 @@
   "id": 1545094041,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-11-01",
+    "date:cessation_upper": "2009-11-30",
+    "date:inception_lower": "2009-11-03",
+    "date:inception_upper": "2009-11-03",
     "edtf:cessation": "2009-11-03~",
     "edtf:inception": "2009-11-03T07:19:46",
     "flysfo:airline": "AC",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20091103-D-ACA-758",
     "sfomuseum:flight_number": [
-      "AC758", 
+      "AC758",
       "ACA758"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85688637, 
-      1159396337, 
-      102087579, 
-      85633793, 
-      85922583, 
-      102527513, 
-      1545094041
+      102191575,
+      85688637,
+      1159396337,
+      102087579,
+      85633793,
+      85922583,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582668226,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545094041,
-    "wof:lastmodified": 1582668226,
+    "wof:lastmodified": 1717011304,
     "wof:name": "ACA758 (SFO-YYZ)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -79.628342, 
+    -122.370943,
+    37.61799,
+    -79.628342,
     43.676352
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-79.628342,43.676352]],"type":"MultiPoint"}

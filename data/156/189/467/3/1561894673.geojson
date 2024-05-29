@@ -2,6 +2,10 @@
   "id": 1561894673,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-05-01",
+    "date:cessation_upper": "2009-05-31",
+    "date:inception_lower": "2009-05-10",
+    "date:inception_upper": "2009-05-10",
     "edtf:cessation": "2009-05-10~",
     "edtf:inception": "2009-05-10T19:23:53",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20090510-D-UAL-412",
     "sfomuseum:flight_number": [
-      "UA412", 
+      "UA412",
       "UAL412"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      102527513, 
-      102087579, 
-      85922583, 
-      1159396337, 
-      1561894673, 
+      85688637,
+      102191575,
+      102527513,
+      102087579,
+      85922583,
+      1159396337,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561894673,
-    "wof:lastmodified": 1582664747,
+    "wof:lastmodified": 1717011326,
     "wof:name": "UAL412 (SFO-SEA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.304268,47.441823]],"type":"MultiPoint"}

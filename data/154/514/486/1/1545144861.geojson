@@ -2,6 +2,10 @@
   "id": 1545144861,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-12-11",
+    "date:cessation_upper": "2009-12-11",
+    "date:inception_lower": "2009-12-01",
+    "date:inception_upper": "2009-12-31",
     "edtf:cessation": "2009-12-11T23:42:09",
     "edtf:inception": "2009-12-11~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530741,
     "sfomuseum:flight_id": "20091211-A-AAL-197",
     "sfomuseum:flight_number": [
-      "AA197", 
+      "AA197",
       "AAL197"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102191575, 
-      102527513, 
-      102087579, 
-      85633793, 
-      1545144861, 
-      85688637, 
+      85922583,
+      102191575,
+      102527513,
+      102087579,
+      85633793,
+      85688637,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545144861,
-    "wof:lastmodified": 1582668749,
+    "wof:lastmodified": 1717011312,
     "wof:name": "AAL197 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}

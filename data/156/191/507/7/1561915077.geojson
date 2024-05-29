@@ -2,6 +2,10 @@
   "id": 1561915077,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-05-25",
+    "date:cessation_upper": "2009-05-25",
+    "date:inception_lower": "2009-05-01",
+    "date:inception_upper": "2009-05-31",
     "edtf:cessation": "2009-05-25T22:57:42",
     "edtf:inception": "2009-05-25~",
     "flysfo:airline": "HP",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20090525-A-AWE-179",
     "sfomuseum:flight_number": [
-      "HP179", 
+      "HP179",
       "AWE179"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      102527513, 
-      102087579, 
-      85922583, 
-      85688637, 
-      1159396337, 
-      1561915077
+      102191575,
+      85633793,
+      102527513,
+      102087579,
+      85922583,
+      85688637,
+      1159396337
     ],
     "wof:country": "US",
     "wof:created": 1582665087,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561915077,
-    "wof:lastmodified": 1582665087,
+    "wof:lastmodified": 1717011330,
     "wof:name": "AWE179 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

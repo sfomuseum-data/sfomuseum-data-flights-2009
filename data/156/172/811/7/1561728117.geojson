@@ -2,6 +2,10 @@
   "id": 1561728117,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-01-01",
+    "date:cessation_upper": "2009-01-01",
+    "date:inception_lower": "2009-01-01",
+    "date:inception_upper": "2009-01-31",
     "edtf:cessation": "2009-01-01T07:15:43",
     "edtf:inception": "2009-01-01~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525535,
     "sfomuseum:flight_id": "20090101-A-UAL-481",
     "sfomuseum:flight_number": [
-      "UA481", 
+      "UA481",
       "UAL481"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1561728117, 
-      85688637, 
-      1159396337, 
-      102087579, 
-      102527513, 
-      85633793, 
-      85922583, 
+      85688637,
+      1159396337,
+      102087579,
+      102527513,
+      85633793,
+      85922583,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561728117,
-    "wof:lastmodified": 1582662278,
+    "wof:lastmodified": 1717011310,
     "wof:name": "UAL481 (RNO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -119.772167, 
+    -122.370943,
+    37.61799,
+    -119.772167,
     39.505219
   ],
   "geometry": {"coordinates":[[-119.772167,39.505219],[-122.370943,37.61799]],"type":"MultiPoint"}

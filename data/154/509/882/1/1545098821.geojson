@@ -2,6 +2,10 @@
   "id": 1545098821,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-11-01",
+    "date:cessation_upper": "2009-11-30",
+    "date:inception_lower": "2009-11-06",
+    "date:inception_upper": "2009-11-06",
     "edtf:cessation": "2009-11-06~",
     "edtf:inception": "2009-11-06T16:51:17",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20091106-D-VRD-810",
     "sfomuseum:flight_number": [
-      "VX810", 
+      "VX810",
       "VRD810"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85688637, 
-      1159396337, 
-      102087579, 
-      85633793, 
-      85922583, 
-      1545098821
+      102527513,
+      102191575,
+      85688637,
+      1159396337,
+      102087579,
+      85633793,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1582668274,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545098821,
-    "wof:lastmodified": 1582668274,
+    "wof:lastmodified": 1717011308,
     "wof:name": "VRD810 (SFO-SNA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.86628,33.677724]],"type":"MultiPoint"}

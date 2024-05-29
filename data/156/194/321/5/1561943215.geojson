@@ -2,6 +2,10 @@
   "id": 1561943215,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-06-01",
+    "date:cessation_upper": "2009-06-30",
+    "date:inception_lower": "2009-06-14",
+    "date:inception_upper": "2009-06-14",
     "edtf:cessation": "2009-06-14~",
     "edtf:inception": "2009-06-14T17:10:01",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20090614-D-UAL-33",
     "sfomuseum:flight_number": [
-      "UA33", 
+      "UA33",
       "UAL33"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102087579, 
-      85633793, 
-      1159396337, 
-      1561943215, 
-      85688637, 
-      85922583, 
+      102527513,
+      102087579,
+      85633793,
+      1159396337,
+      85688637,
+      85922583,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561943215,
-    "wof:lastmodified": 1582665452,
+    "wof:lastmodified": 1717011330,
     "wof:name": "UAL33 (SFO-OGG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -156.437877, 
-    20.894952, 
-    -122.370943, 
+    -156.437877,
+    20.894952,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-156.437877,20.894952]],"type":"MultiPoint"}

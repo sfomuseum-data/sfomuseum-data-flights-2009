@@ -2,6 +2,10 @@
   "id": 1545093961,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-11-03",
+    "date:cessation_upper": "2009-11-03",
+    "date:inception_lower": "2009-11-01",
+    "date:inception_upper": "2009-11-30",
     "edtf:cessation": "2009-11-03T04:52:52",
     "edtf:inception": "2009-11-03~",
     "flysfo:airline": "FX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527185,
     "sfomuseum:flight_id": "20091103-A-FDX-1441",
     "sfomuseum:flight_number": [
-      "FX1441", 
+      "FX1441",
       "FDX1441"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85688637, 
-      102527513, 
-      102191575, 
-      85922583, 
-      1159396337, 
-      1545093961
+      85633793,
+      102087579,
+      85688637,
+      102527513,
+      102191575,
+      85922583,
+      1159396337
     ],
     "wof:country": "US",
     "wof:created": 1582668226,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545093961,
-    "wof:lastmodified": 1582668226,
+    "wof:lastmodified": 1717011304,
     "wof:name": "FDX1441 (MEM-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.04889, 
-    -89.981998, 
+    -122.370943,
+    35.04889,
+    -89.981998,
     37.61799
   ],
   "geometry": {"coordinates":[[-89.981998,35.04889],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1545149559,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-12-15",
+    "date:cessation_upper": "2009-12-15",
+    "date:inception_lower": "2009-12-01",
+    "date:inception_upper": "2009-12-31",
     "edtf:cessation": "2009-12-15T15:50:54",
     "edtf:inception": "2009-12-15~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102555307,
     "sfomuseum:flight_id": "20091215-A-UAL-305",
     "sfomuseum:flight_number": [
-      "UA305", 
+      "UA305",
       "UAL305"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      102191575, 
-      102087579, 
-      85688637, 
-      102527513, 
-      1159396337, 
-      1545149559
+      85633793,
+      85922583,
+      102191575,
+      102087579,
+      85688637,
+      102527513,
+      1159396337
     ],
     "wof:country": "US",
     "wof:created": 1582668799,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545149559,
-    "wof:lastmodified": 1582668799,
+    "wof:lastmodified": 1717011317,
     "wof:name": "UAL305 (YVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792, 
-    37.61799, 
-    -122.370943, 
+    -123.1792,
+    37.61799,
+    -122.370943,
     49.19333
   ],
   "geometry": {"coordinates":[[-123.1792,49.19333],[-122.370943,37.61799]],"type":"MultiPoint"}

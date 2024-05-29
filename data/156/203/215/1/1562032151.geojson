@@ -2,6 +2,10 @@
   "id": 1562032151,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-08-14",
+    "date:cessation_upper": "2009-08-14",
+    "date:inception_lower": "2009-08-01",
+    "date:inception_upper": "2009-08-31",
     "edtf:cessation": "2009-08-14T07:23:07",
     "edtf:inception": "2009-08-14~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20090814-A-AAL-9677",
     "sfomuseum:flight_number": [
-      "AA9677", 
+      "AA9677",
       "AAL9677"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1159396337, 
-      85688637, 
-      85633793, 
-      1562032151, 
-      102087579, 
-      85922583, 
+      102191575,
+      1159396337,
+      85688637,
+      85633793,
+      102087579,
+      85922583,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562032151,
-    "wof:lastmodified": 1582666666,
+    "wof:lastmodified": 1717011338,
     "wof:name": "AAL9677 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

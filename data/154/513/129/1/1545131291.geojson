@@ -2,6 +2,10 @@
   "id": 1545131291,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-12-01",
+    "date:cessation_upper": "2009-12-01",
+    "date:inception_lower": "2009-12-01",
+    "date:inception_upper": "2009-12-31",
     "edtf:cessation": "2009-12-01T13:36:21",
     "edtf:inception": "2009-12-01~",
     "flysfo:airline": "NW",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531131,
     "sfomuseum:flight_id": "20091201-A-NWA-2115",
     "sfomuseum:flight_number": [
-      "NW2115", 
+      "NW2115",
       "NWA2115"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396337, 
-      102191575, 
-      102087579, 
-      85922583, 
-      102527513, 
-      85633793, 
-      1545131291
+      85688637,
+      1159396337,
+      102191575,
+      102087579,
+      85922583,
+      102527513,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582668608,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545131291,
-    "wof:lastmodified": 1582668608,
+    "wof:lastmodified": 1717011307,
     "wof:name": "NWA2115 (MSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}

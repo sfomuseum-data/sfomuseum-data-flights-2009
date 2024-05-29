@@ -2,6 +2,10 @@
   "id": 1545059863,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-05-02",
+    "date:cessation_upper": "2009-05-02",
+    "date:inception_lower": "2009-05-01",
+    "date:inception_upper": "2009-05-31",
     "edtf:cessation": "2009-05-02T17:59:05",
     "edtf:inception": "2009-05-02~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20090502-A-SWA-1834",
     "sfomuseum:flight_number": [
-      "WN1834", 
+      "WN1834",
       "SWA1834"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1545059863, 
-      85922583, 
-      1159396337, 
-      85688637, 
-      102191575, 
-      85633793, 
-      102527513, 
+      85922583,
+      1159396337,
+      85688637,
+      102191575,
+      85633793,
+      102527513,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545059863,
-    "wof:lastmodified": 1582664498,
+    "wof:lastmodified": 1717011308,
     "wof:name": "SWA1834 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

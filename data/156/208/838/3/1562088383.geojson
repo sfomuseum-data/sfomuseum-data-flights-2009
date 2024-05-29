@@ -2,6 +2,10 @@
   "id": 1562088383,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-09-22",
+    "date:cessation_upper": "2009-09-22",
+    "date:inception_lower": "2009-09-01",
+    "date:inception_upper": "2009-09-30",
     "edtf:cessation": "2009-09-22T20:30:18",
     "edtf:inception": "2009-09-22~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20090922-A-SWA-1545",
     "sfomuseum:flight_number": [
-      "WN1545", 
+      "WN1545",
       "SWA1545"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159396337, 
-      102527513, 
-      85633793, 
-      102087579, 
-      102191575, 
-      85688637, 
-      1562088383
+      85922583,
+      1159396337,
+      102527513,
+      85633793,
+      102087579,
+      102191575,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1582667514,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562088383,
-    "wof:lastmodified": 1582667514,
+    "wof:lastmodified": 1717011347,
     "wof:name": "SWA1545 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1545126617,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-11-28",
+    "date:cessation_upper": "2009-11-28",
+    "date:inception_lower": "2009-11-01",
+    "date:inception_upper": "2009-11-30",
     "edtf:cessation": "2009-11-28T08:15:53",
     "edtf:inception": "2009-11-28~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20091128-A-VRD-801",
     "sfomuseum:flight_number": [
-      "VX801", 
+      "VX801",
       "VRD801"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85922583, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1545126617, 
-      1159396337, 
+      85688637,
+      85922583,
+      102191575,
+      85633793,
+      102087579,
+      1159396337,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545126617,
-    "wof:lastmodified": 1582668559,
+    "wof:lastmodified": 1717011310,
     "wof:name": "VRD801 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

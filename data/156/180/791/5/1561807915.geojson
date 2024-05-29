@@ -2,6 +2,10 @@
   "id": 1561807915,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-03-01",
+    "date:cessation_upper": "2009-03-31",
+    "date:inception_lower": "2009-03-06",
+    "date:inception_upper": "2009-03-06",
     "edtf:cessation": "2009-03-06~",
     "edtf:inception": "2009-03-06T12:27:37",
     "flysfo:airline": "NW",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20090306-D-NWA-360",
     "sfomuseum:flight_number": [
-      "NW360", 
+      "NW360",
       "NWA360"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      85688637, 
-      1159396337, 
-      102527513, 
-      102087579, 
-      102191575, 
-      1561807915
+      85633793,
+      85922583,
+      85688637,
+      1159396337,
+      102527513,
+      102087579,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582663371,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561807915,
-    "wof:lastmodified": 1582663371,
+    "wof:lastmodified": 1717011321,
     "wof:name": "NWA360 (SFO-MSP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-93.200317,44.883321]],"type":"MultiPoint"}

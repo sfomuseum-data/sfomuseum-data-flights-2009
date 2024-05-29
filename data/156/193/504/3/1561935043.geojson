@@ -2,6 +2,10 @@
   "id": 1561935043,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-06-09",
+    "date:cessation_upper": "2009-06-09",
+    "date:inception_lower": "2009-06-01",
+    "date:inception_upper": "2009-06-30",
     "edtf:cessation": "2009-06-09T03:34:51",
     "edtf:inception": "2009-06-09~",
     "flysfo:airline": "",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20090609-A-ABX-1920",
     "sfomuseum:flight_number": [
-      "1920", 
+      "1920",
       "ABX1920"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      102087579, 
-      1159396337, 
-      85922583, 
-      102527513, 
-      85688637, 
-      1561935043
+      102191575,
+      85633793,
+      102087579,
+      1159396337,
+      85922583,
+      102527513,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1582665355,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561935043,
-    "wof:lastmodified": 1582665355,
+    "wof:lastmodified": 1717011332,
     "wof:name": "ABX1920 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1562119637,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-10-01",
+    "date:cessation_upper": "2009-10-31",
+    "date:inception_lower": "2009-10-15",
+    "date:inception_upper": "2009-10-15",
     "edtf:cessation": "2009-10-15~",
     "edtf:inception": "2009-10-15T21:02:53",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20091015-D-SWA-2016",
     "sfomuseum:flight_number": [
-      "WN2016", 
+      "WN2016",
       "SWA2016"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      1562119637, 
-      85922583, 
-      1159396337, 
-      102527513, 
-      85688637, 
+      85633793,
+      102087579,
+      85922583,
+      1159396337,
+      102527513,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562119637,
-    "wof:lastmodified": 1582667975,
+    "wof:lastmodified": 1717011351,
     "wof:name": "SWA2016 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

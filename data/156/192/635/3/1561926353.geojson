@@ -2,6 +2,10 @@
   "id": 1561926353,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-06-01",
+    "date:cessation_upper": "2009-06-30",
+    "date:inception_lower": "2009-06-03",
+    "date:inception_upper": "2009-06-03",
     "edtf:cessation": "2009-06-03~",
     "edtf:inception": "2009-06-03T02:46:27",
     "flysfo:airline": "OZ",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20090603-D-AAR-285",
     "sfomuseum:flight_number": [
-      "OZ285", 
+      "OZ285",
       "AAR285"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85688637, 
-      1159396337, 
-      85633793, 
-      102087579, 
-      102527513, 
-      85922583, 
-      1561926353
+      102191575,
+      85688637,
+      1159396337,
+      85633793,
+      102087579,
+      102527513,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1582665242,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561926353,
-    "wof:lastmodified": 1582665242,
+    "wof:lastmodified": 1717011332,
     "wof:name": "AAR285 (SFO-ANC)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -149.968401, 
-    37.61799, 
-    -122.370943, 
+    -149.968401,
+    37.61799,
+    -122.370943,
     61.173606
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-149.968401,61.173606]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1562102709,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-10-03",
+    "date:cessation_upper": "2009-10-03",
+    "date:inception_lower": "2009-10-01",
+    "date:inception_upper": "2009-10-31",
     "edtf:cessation": "2009-10-03T10:46:34",
     "edtf:inception": "2009-10-03~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102521851,
     "sfomuseum:flight_id": "20091003-A-UAL-548",
     "sfomuseum:flight_number": [
-      "UA548", 
+      "UA548",
       "UAL548"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      85922583, 
-      102527513, 
-      85633793, 
-      85688637, 
-      1159396337, 
-      1562102709
+      102191575,
+      102087579,
+      85922583,
+      102527513,
+      85633793,
+      85688637,
+      1159396337
     ],
     "wof:country": "US",
     "wof:created": 1582667747,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562102709,
-    "wof:lastmodified": 1582667747,
+    "wof:lastmodified": 1717011344,
     "wof:name": "UAL548 (AUS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    30.206175, 
-    -97.643029, 
+    -122.370943,
+    30.206175,
+    -97.643029,
     37.61799
   ],
   "geometry": {"coordinates":[[-97.643029,30.206175],[-122.370943,37.61799]],"type":"MultiPoint"}

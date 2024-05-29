@@ -2,6 +2,10 @@
   "id": 1562130007,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-10-23",
+    "date:cessation_upper": "2009-10-23",
+    "date:inception_lower": "2009-10-01",
+    "date:inception_upper": "2009-10-31",
     "edtf:cessation": "2009-10-23T12:54:53",
     "edtf:inception": "2009-10-23~",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20091023-A-VRD-929",
     "sfomuseum:flight_number": [
-      "VX929", 
+      "VX929",
       "VRD929"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85922583, 
-      102191575, 
-      85688637, 
-      1159396337, 
-      102527513, 
-      1562130007
+      85633793,
+      102087579,
+      85922583,
+      102191575,
+      85688637,
+      1159396337,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582668083,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562130007,
-    "wof:lastmodified": 1582668083,
+    "wof:lastmodified": 1717011346,
     "wof:name": "VRD929 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

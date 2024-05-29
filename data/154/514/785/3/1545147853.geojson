@@ -2,6 +2,10 @@
   "id": 1545147853,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-12-14",
+    "date:cessation_upper": "2009-12-14",
+    "date:inception_lower": "2009-12-01",
+    "date:inception_upper": "2009-12-31",
     "edtf:cessation": "2009-12-14T11:22:18",
     "edtf:inception": "2009-12-14~",
     "flysfo:airline": "NW",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102525635,
     "sfomuseum:flight_id": "20091214-A-NWA-2382",
     "sfomuseum:flight_number": [
-      "NW2382", 
+      "NW2382",
       "NWA2382"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85688637, 
-      102087579, 
-      85922583, 
-      1159396337, 
-      85633793, 
-      1545147853
+      102527513,
+      102191575,
+      85688637,
+      102087579,
+      85922583,
+      1159396337,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582668780,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545147853,
-    "wof:lastmodified": 1582668780,
+    "wof:lastmodified": 1717011315,
     "wof:name": "NWA2382 (DTW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -83.351709, 
+    -122.370943,
+    37.61799,
+    -83.351709,
     42.21886
   ],
   "geometry": {"coordinates":[[-83.351709,42.21886],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1562122455,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-10-01",
+    "date:cessation_upper": "2009-10-31",
+    "date:inception_lower": "2009-10-18",
+    "date:inception_upper": "2009-10-18",
     "edtf:cessation": "2009-10-18~",
     "edtf:inception": "2009-10-18T00:41:22",
     "flysfo:airline": "B6",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20091018-D-JBU-4650",
     "sfomuseum:flight_number": [
-      "B64650", 
+      "B64650",
       "JBU4650"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      85633793, 
-      85922583, 
-      102527513, 
-      1562122455, 
-      102087579, 
-      85688637, 
+      1159396337,
+      85633793,
+      85922583,
+      102527513,
+      102087579,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562122455,
-    "wof:lastmodified": 1582668002,
+    "wof:lastmodified": 1717011347,
     "wof:name": "JBU4650 (SFO-OAK)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.212464, 
+    -122.370943,
+    37.61799,
+    -122.212464,
     37.72131
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.212464,37.72131]],"type":"MultiPoint"}

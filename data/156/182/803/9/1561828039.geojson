@@ -2,6 +2,10 @@
   "id": 1561828039,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-03-21",
+    "date:cessation_upper": "2009-03-21",
+    "date:inception_lower": "2009-03-01",
+    "date:inception_upper": "2009-03-31",
     "edtf:cessation": "2009-03-21T17:57:27",
     "edtf:inception": "2009-03-21~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20090321-A-UAL-1171",
     "sfomuseum:flight_number": [
-      "UA1171", 
+      "UA1171",
       "UAL1171"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      1561828039, 
-      85922583, 
-      102087579, 
-      102191575, 
-      85688637, 
+      102527513,
+      85633793,
+      85922583,
+      102087579,
+      102191575,
+      85688637,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561828039,
-    "wof:lastmodified": 1582663685,
+    "wof:lastmodified": 1717011324,
     "wof:name": "UAL1171 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

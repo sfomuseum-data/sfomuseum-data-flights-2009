@@ -2,6 +2,10 @@
   "id": 1561964237,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-06-29",
+    "date:cessation_upper": "2009-06-29",
+    "date:inception_lower": "2009-06-01",
+    "date:inception_upper": "2009-06-30",
     "edtf:cessation": "2009-06-29T05:25:52",
     "edtf:inception": "2009-06-29~",
     "flysfo:airline": "5Y",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102529713,
     "sfomuseum:flight_id": "20090629-A-GTI-8045",
     "sfomuseum:flight_number": [
-      "5Y8045", 
+      "5Y8045",
       "GTI8045"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1561964237, 
-      85688637, 
-      102191575, 
-      85922583, 
-      1159396337, 
-      85633793, 
+      102527513,
+      85688637,
+      102191575,
+      85922583,
+      1159396337,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561964237,
-    "wof:lastmodified": 1582665718,
+    "wof:lastmodified": 1717011332,
     "wof:name": "GTI8045 (BGR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -68.820177, 
+    -122.370943,
+    37.61799,
+    -68.820177,
     44.810606
   ],
   "geometry": {"coordinates":[[-68.820177,44.810606],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1561998045,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-07-22",
+    "date:cessation_upper": "2009-07-22",
+    "date:inception_lower": "2009-07-01",
+    "date:inception_upper": "2009-07-31",
     "edtf:cessation": "2009-07-22T07:32:56",
     "edtf:inception": "2009-07-22~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20090722-A-SWA-1922",
     "sfomuseum:flight_number": [
-      "WN1922", 
+      "WN1922",
       "SWA1922"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      1561998045, 
-      85922583, 
-      102527513, 
-      102191575, 
-      85688637, 
+      85633793,
+      102087579,
+      85922583,
+      102527513,
+      102191575,
+      85688637,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561998045,
-    "wof:lastmodified": 1582666184,
+    "wof:lastmodified": 1717011339,
     "wof:name": "SWA1922 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

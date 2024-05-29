@@ -2,6 +2,10 @@
   "id": 1561837891,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-03-01",
+    "date:cessation_upper": "2009-03-31",
+    "date:inception_lower": "2009-03-29",
+    "date:inception_upper": "2009-03-29",
     "edtf:cessation": "2009-03-29~",
     "edtf:inception": "2009-03-29T10:16:39",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20090329-D-UAL-9",
     "sfomuseum:flight_number": [
-      "UA9", 
+      "UA9",
       "UAL9"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1159396337, 
-      85633793, 
-      85688637, 
-      102087579, 
-      1561837891, 
-      85922583, 
+      102191575,
+      1159396337,
+      85633793,
+      85688637,
+      102087579,
+      85922583,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561837891,
-    "wof:lastmodified": 1582663860,
+    "wof:lastmodified": 1717011325,
     "wof:name": "UAL9 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

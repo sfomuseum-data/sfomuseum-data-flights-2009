@@ -2,6 +2,10 @@
   "id": 1545059707,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-05-01",
+    "date:cessation_upper": "2009-05-01",
+    "date:inception_lower": "2009-05-01",
+    "date:inception_upper": "2009-05-31",
     "edtf:cessation": "2009-05-01T15:14:03",
     "edtf:inception": "2009-05-01~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20090501-A-SWA-723",
     "sfomuseum:flight_number": [
-      "WN723", 
+      "WN723",
       "SWA723"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      85688637, 
-      85922583, 
-      102087579, 
-      1159396337, 
-      102527513, 
-      1545059707
+      102191575,
+      85633793,
+      85688637,
+      85922583,
+      102087579,
+      1159396337,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582664477,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545059707,
-    "wof:lastmodified": 1582664477,
+    "wof:lastmodified": 1717011308,
     "wof:name": "SWA723 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

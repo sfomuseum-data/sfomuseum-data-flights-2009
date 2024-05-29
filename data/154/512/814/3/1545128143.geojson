@@ -2,6 +2,10 @@
   "id": 1545128143,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-11-29",
+    "date:cessation_upper": "2009-11-29",
+    "date:inception_lower": "2009-11-01",
+    "date:inception_upper": "2009-11-30",
     "edtf:cessation": "2009-11-29T10:13:19",
     "edtf:inception": "2009-11-29~",
     "flysfo:airline": "MX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102536579,
     "sfomuseum:flight_id": "20091129-A-MXA-970",
     "sfomuseum:flight_number": [
-      "MX970", 
+      "MX970",
       "MXA970"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      102087579, 
-      1545128143, 
-      85688637, 
-      1159396337, 
-      102191575, 
+      102527513,
+      85633793,
+      102087579,
+      85688637,
+      1159396337,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545128143,
-    "wof:lastmodified": 1582668575,
+    "wof:lastmodified": 1717011311,
     "wof:name": "MXA970 (MEX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    19.431302, 
-    -99.080804, 
+    -122.370943,
+    19.431302,
+    -99.080804,
     37.61799
   ],
   "geometry": {"coordinates":[[-99.080804,19.431302],[-122.370943,37.61799]],"type":"MultiPoint"}

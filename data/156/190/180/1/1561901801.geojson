@@ -2,6 +2,10 @@
   "id": 1561901801,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-05-15",
+    "date:cessation_upper": "2009-05-15",
+    "date:inception_lower": "2009-05-01",
+    "date:inception_upper": "2009-05-31",
     "edtf:cessation": "2009-05-15T20:14:48",
     "edtf:inception": "2009-05-15~",
     "flysfo:airline": "HP",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528659,
     "sfomuseum:flight_id": "20090515-A-AWE-771",
     "sfomuseum:flight_number": [
-      "HP771", 
+      "HP771",
       "AWE771"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1561901801, 
-      1159396337, 
-      102191575, 
-      85633793, 
-      102527513, 
-      85922583, 
+      85688637,
+      1159396337,
+      102191575,
+      85633793,
+      102527513,
+      85922583,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561901801,
-    "wof:lastmodified": 1582664895,
+    "wof:lastmodified": 1717011325,
     "wof:name": "AWE771 (CLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}

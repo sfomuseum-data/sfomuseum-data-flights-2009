@@ -2,6 +2,10 @@
   "id": 1561739725,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-01-01",
+    "date:cessation_upper": "2009-01-31",
+    "date:inception_lower": "2009-01-11",
+    "date:inception_upper": "2009-01-11",
     "edtf:cessation": "2009-01-11~",
     "edtf:inception": "2009-01-11T09:33:06",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20090111-D-ASA-301",
     "sfomuseum:flight_number": [
-      "AS301", 
+      "AS301",
       "ASA301"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      1159396337, 
-      85688637, 
-      102191575, 
-      85922583, 
-      102527513, 
-      1561739725
+      85633793,
+      102087579,
+      1159396337,
+      85688637,
+      102191575,
+      85922583,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582662421,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561739725,
-    "wof:lastmodified": 1582662421,
+    "wof:lastmodified": 1717011318,
     "wof:name": "ASA301 (SFO-SEA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.304268,47.441823]],"type":"MultiPoint"}

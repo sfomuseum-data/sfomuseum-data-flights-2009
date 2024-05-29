@@ -2,6 +2,10 @@
   "id": 1578390663,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-12-24",
+    "date:cessation_upper": "2009-12-24",
+    "date:inception_lower": "2009-12-01",
+    "date:inception_upper": "2009-12-31",
     "edtf:cessation": "2009-12-24T14:51:58",
     "edtf:inception": "2009-12-24~",
     "flysfo:airline": "HP",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20091224-A-AWE-468",
     "sfomuseum:flight_number": [
-      "HP468", 
+      "HP468",
       "AWE468"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      1578390663, 
-      1159396337, 
-      85688637, 
-      85922583, 
-      102527513, 
+      85633793,
+      102087579,
+      1159396337,
+      85688637,
+      85922583,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578390663,
-    "wof:lastmodified": 1582668944,
+    "wof:lastmodified": 1717011348,
     "wof:name": "AWE468 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

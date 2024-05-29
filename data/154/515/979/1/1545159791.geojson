@@ -2,6 +2,10 @@
   "id": 1545159791,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-12-23",
+    "date:cessation_upper": "2009-12-23",
+    "date:inception_lower": "2009-12-01",
+    "date:inception_upper": "2009-12-31",
     "edtf:cessation": "2009-12-23T09:28:09",
     "edtf:inception": "2009-12-23~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20091223-A-SWA-637",
     "sfomuseum:flight_number": [
-      "WN637", 
+      "WN637",
       "SWA637"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1545159791, 
-      85922583, 
+      102527513,
+      85633793,
+      85688637,
+      102191575,
+      102087579,
+      85922583,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545159791,
-    "wof:lastmodified": 1582668904,
+    "wof:lastmodified": 1717011317,
     "wof:name": "SWA637 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

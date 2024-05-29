@@ -2,6 +2,10 @@
   "id": 1562003815,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-07-26",
+    "date:cessation_upper": "2009-07-26",
+    "date:inception_lower": "2009-07-01",
+    "date:inception_upper": "2009-07-31",
     "edtf:cessation": "2009-07-26T04:53:41",
     "edtf:inception": "2009-07-26~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528943,
     "sfomuseum:flight_id": "20090726-A-UAL-31",
     "sfomuseum:flight_number": [
-      "UA31", 
+      "UA31",
       "UAL31"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1562003815, 
-      85633793, 
-      102087579, 
-      85922583, 
-      85688637, 
-      1159396337, 
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637,
+      1159396337,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562003815,
-    "wof:lastmodified": 1582666262,
+    "wof:lastmodified": 1717011336,
     "wof:name": "UAL31 (LIH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -159.347789, 
-    21.981539, 
-    -122.370943, 
+    -159.347789,
+    21.981539,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-159.347789,21.981539],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1561930865,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-06-01",
+    "date:cessation_upper": "2009-06-30",
+    "date:inception_lower": "2009-06-06",
+    "date:inception_upper": "2009-06-06",
     "edtf:cessation": "2009-06-06~",
     "edtf:inception": "2009-06-06T07:04:20",
     "flysfo:airline": "HP",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20090606-D-AWE-393",
     "sfomuseum:flight_number": [
-      "HP393", 
+      "HP393",
       "AWE393"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      1561930865, 
-      85922583, 
-      102527513, 
-      102087579, 
-      85688637, 
+      102191575,
+      85633793,
+      85922583,
+      102527513,
+      102087579,
+      85688637,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561930865,
-    "wof:lastmodified": 1582665305,
+    "wof:lastmodified": 1717011328,
     "wof:name": "AWE393 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}

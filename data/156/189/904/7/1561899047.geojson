@@ -2,6 +2,10 @@
   "id": 1561899047,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-05-13",
+    "date:cessation_upper": "2009-05-13",
+    "date:inception_lower": "2009-05-01",
+    "date:inception_upper": "2009-05-31",
     "edtf:cessation": "2009-05-13T22:03:56",
     "edtf:inception": "2009-05-13~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531023,
     "sfomuseum:flight_id": "20090513-A-AAL-1705",
     "sfomuseum:flight_number": [
-      "AA1705", 
+      "AA1705",
       "AAL1705"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1561899047, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      1159396337, 
-      102087579, 
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      1159396337,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561899047,
-    "wof:lastmodified": 1582664839,
+    "wof:lastmodified": 1717011330,
     "wof:name": "AAL1705 (MIA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.79047, 
-    -80.296006, 
+    -122.370943,
+    25.79047,
+    -80.296006,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.296006,25.79047],[-122.370943,37.61799]],"type":"MultiPoint"}

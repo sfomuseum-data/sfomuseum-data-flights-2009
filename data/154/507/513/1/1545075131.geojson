@@ -2,6 +2,10 @@
   "id": 1545075131,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-08-16",
+    "date:cessation_upper": "2009-08-16",
+    "date:inception_lower": "2009-08-01",
+    "date:inception_upper": "2009-08-31",
     "edtf:cessation": "2009-08-16T23:31:15",
     "edtf:inception": "2009-08-16~",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534019,
     "sfomuseum:flight_id": "20090816-A-COA-609",
     "sfomuseum:flight_number": [
-      "CO609", 
+      "CO609",
       "COA609"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85688637, 
-      1159396337, 
-      1545075131, 
-      85922583, 
-      102191575, 
-      102087579, 
+      85633793,
+      85688637,
+      1159396337,
+      85922583,
+      102191575,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545075131,
-    "wof:lastmodified": 1582666732,
+    "wof:lastmodified": 1717011305,
     "wof:name": "COA609 (CLE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -81.835629, 
+    -122.370943,
+    37.61799,
+    -81.835629,
     41.406844
   ],
   "geometry": {"coordinates":[[-81.835629,41.406844],[-122.370943,37.61799]],"type":"MultiPoint"}

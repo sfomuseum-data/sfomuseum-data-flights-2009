@@ -2,6 +2,10 @@
   "id": 1544950669,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-06-15",
+    "date:cessation_upper": "2009-06-15",
+    "date:inception_lower": "2009-06-01",
+    "date:inception_upper": "2009-06-30",
     "edtf:cessation": "2009-06-15T16:13:03",
     "edtf:inception": "2009-06-15~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102536441,
     "sfomuseum:flight_id": "20090615-A-UAL-50",
     "sfomuseum:flight_number": [
-      "UA50", 
+      "UA50",
       "UAL50"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85688637, 
-      85633793, 
-      1544950669, 
-      102527513, 
-      102087579, 
-      85922583, 
+      102191575,
+      85688637,
+      85633793,
+      102527513,
+      102087579,
+      85922583,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1544950669,
-    "wof:lastmodified": 1582665470,
+    "wof:lastmodified": 1717011301,
     "wof:name": "UAL50 (SJD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.160962, 
-    -109.717461, 
+    -122.370943,
+    23.160962,
+    -109.717461,
     37.61799
   ],
   "geometry": {"coordinates":[[-109.717461,23.160962],[-122.370943,37.61799]],"type":"MultiPoint"}

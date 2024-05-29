@@ -2,6 +2,10 @@
   "id": 1562116469,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-10-13",
+    "date:cessation_upper": "2009-10-13",
+    "date:inception_lower": "2009-10-01",
+    "date:inception_upper": "2009-10-31",
     "edtf:cessation": "2009-10-13T16:21:30",
     "edtf:inception": "2009-10-13~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20091013-A-UAL-55",
     "sfomuseum:flight_number": [
-      "UA55", 
+      "UA55",
       "UAL55"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1562116469, 
-      85922583, 
-      102527513, 
-      85688637, 
-      102087579, 
-      1159396337, 
-      85633793, 
+      85922583,
+      102527513,
+      85688637,
+      102087579,
+      1159396337,
+      85633793,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562116469,
-    "wof:lastmodified": 1582667942,
+    "wof:lastmodified": 1717011350,
     "wof:name": "UAL55 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

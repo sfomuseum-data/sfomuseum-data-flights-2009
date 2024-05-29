@@ -2,6 +2,10 @@
   "id": 1561843835,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-04-01",
+    "date:cessation_upper": "2009-04-30",
+    "date:inception_lower": "2009-04-02",
+    "date:inception_upper": "2009-04-02",
     "edtf:cessation": "2009-04-02~",
     "edtf:inception": "2009-04-02T18:29:33",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20090402-D-UAL-77A",
     "sfomuseum:flight_number": [
-      "UA77A", 
+      "UA77A",
       "UAL77A"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85688637, 
-      1159396337, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1561843835, 
+      85633793,
+      85688637,
+      1159396337,
+      102527513,
+      102191575,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561843835,
-    "wof:lastmodified": 1582663954,
+    "wof:lastmodified": 1717011321,
     "wof:name": "UAL77A (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-157.918416,21.332508]],"type":"MultiPoint"}

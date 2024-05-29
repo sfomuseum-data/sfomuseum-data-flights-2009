@@ -2,6 +2,10 @@
   "id": 1561797289,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-02-26",
+    "date:cessation_upper": "2009-02-26",
+    "date:inception_lower": "2009-02-01",
+    "date:inception_upper": "2009-02-28",
     "edtf:cessation": "2009-02-26T11:08:20",
     "edtf:inception": "2009-02-26~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528187,
     "sfomuseum:flight_id": "20090226-A-DAL-1531",
     "sfomuseum:flight_number": [
-      "DL1531", 
+      "DL1531",
       "DAL1531"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      1561797289, 
-      85688637, 
-      102087579, 
-      1159396337, 
-      85922583, 
+      102527513,
+      85633793,
+      85688637,
+      102087579,
+      1159396337,
+      85922583,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561797289,
-    "wof:lastmodified": 1582663202,
+    "wof:lastmodified": 1717011320,
     "wof:name": "DAL1531 (CVG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -84.657144, 
+    -122.370943,
+    37.61799,
+    -84.657144,
     39.054422
   ],
   "geometry": {"coordinates":[[-84.657144,39.054422],[-122.370943,37.61799]],"type":"MultiPoint"}

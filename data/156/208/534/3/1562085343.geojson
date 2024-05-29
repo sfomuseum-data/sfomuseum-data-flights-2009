@@ -2,6 +2,10 @@
   "id": 1562085343,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-09-20",
+    "date:cessation_upper": "2009-09-20",
+    "date:inception_lower": "2009-09-01",
+    "date:inception_upper": "2009-09-30",
     "edtf:cessation": "2009-09-20T16:56:50",
     "edtf:inception": "2009-09-20~",
     "flysfo:airline": "FX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527185,
     "sfomuseum:flight_id": "20090920-A-FDX-593",
     "sfomuseum:flight_number": [
-      "FX593", 
+      "FX593",
       "FDX593"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102191575, 
-      102087579, 
-      85633793, 
-      1562085343
+      1159396337,
+      85922583,
+      85688637,
+      102527513,
+      102191575,
+      102087579,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582667466,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562085343,
-    "wof:lastmodified": 1582667466,
+    "wof:lastmodified": 1717011344,
     "wof:name": "FDX593 (MEM-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.04889, 
-    -89.981998, 
+    -122.370943,
+    35.04889,
+    -89.981998,
     37.61799
   ],
   "geometry": {"coordinates":[[-89.981998,35.04889],[-122.370943,37.61799]],"type":"MultiPoint"}

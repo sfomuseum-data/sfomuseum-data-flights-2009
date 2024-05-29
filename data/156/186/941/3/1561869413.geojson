@@ -2,6 +2,10 @@
   "id": 1561869413,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-04-01",
+    "date:cessation_upper": "2009-04-30",
+    "date:inception_lower": "2009-04-22",
+    "date:inception_upper": "2009-04-22",
     "edtf:cessation": "2009-04-22~",
     "edtf:inception": "2009-04-22T06:21:44",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20090422-D-UAL-156",
     "sfomuseum:flight_number": [
-      "UA156", 
+      "UA156",
       "UAL156"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1561869413, 
-      102527513, 
-      85633793, 
-      102191575, 
-      1159396337, 
-      102087579, 
-      85922583, 
+      102527513,
+      85633793,
+      102191575,
+      1159396337,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561869413,
-    "wof:lastmodified": 1582664353,
+    "wof:lastmodified": 1717011327,
     "wof:name": "UAL156 (SFO-BOS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-71.01475,42.362322]],"type":"MultiPoint"}

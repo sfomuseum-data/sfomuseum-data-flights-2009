@@ -2,6 +2,10 @@
   "id": 1545106645,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-11-01",
+    "date:cessation_upper": "2009-11-30",
+    "date:inception_lower": "2009-11-12",
+    "date:inception_upper": "2009-11-12",
     "edtf:cessation": "2009-11-12~",
     "edtf:inception": "2009-11-12T16:51:14",
     "flysfo:airline": "VS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20091112-D-VIR-20",
     "sfomuseum:flight_number": [
-      "VS20", 
+      "VS20",
       "VIR20"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      85922583, 
-      1159396337, 
-      102191575, 
-      102527513, 
-      102087579, 
-      1545106645
+      85688637,
+      85633793,
+      85922583,
+      1159396337,
+      102191575,
+      102527513,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582668353,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545106645,
-    "wof:lastmodified": 1582668353,
+    "wof:lastmodified": 1717011307,
     "wof:name": "VIR20 (SFO-LHR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -0.450443, 
+    -122.370943,
+    37.61799,
+    -0.450443,
     51.470087
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-0.450443,51.470087]],"type":"MultiPoint"}

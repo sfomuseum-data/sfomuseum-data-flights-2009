@@ -2,6 +2,10 @@
   "id": 1562014747,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-08-02",
+    "date:cessation_upper": "2009-08-02",
+    "date:inception_lower": "2009-08-01",
+    "date:inception_upper": "2009-08-31",
     "edtf:cessation": "2009-08-02T12:54:31",
     "edtf:inception": "2009-08-02~",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20090802-A-AAL-451",
     "sfomuseum:flight_number": [
-      "AA451", 
+      "AA451",
       "AAL451"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      85688637, 
-      1159396337, 
-      1562014747
+      102087579,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      85688637,
+      1159396337
     ],
     "wof:country": "US",
     "wof:created": 1582666409,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562014747,
-    "wof:lastmodified": 1582666409,
+    "wof:lastmodified": 1717011340,
     "wof:name": "AAL451 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

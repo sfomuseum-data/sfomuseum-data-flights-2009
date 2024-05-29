@@ -2,6 +2,10 @@
   "id": 1561924979,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-06-01",
+    "date:cessation_upper": "2009-06-30",
+    "date:inception_lower": "2009-06-02",
+    "date:inception_upper": "2009-06-02",
     "edtf:cessation": "2009-06-02~",
     "edtf:inception": "2009-06-02T06:07:16",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20090602-D-UAL-454",
     "sfomuseum:flight_number": [
-      "UA454", 
+      "UA454",
       "UAL454"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1561924979, 
-      1159396337, 
-      85688637, 
-      102087579, 
-      102527513, 
-      102191575, 
-      85633793, 
+      1159396337,
+      85688637,
+      102087579,
+      102527513,
+      102191575,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561924979,
-    "wof:lastmodified": 1582665223,
+    "wof:lastmodified": 1717011330,
     "wof:name": "UAL454 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}

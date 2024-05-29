@@ -2,6 +2,10 @@
   "id": 1545074553,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-08-01",
+    "date:cessation_upper": "2009-08-31",
+    "date:inception_lower": "2009-08-13",
+    "date:inception_upper": "2009-08-13",
     "edtf:cessation": "2009-08-13~",
     "edtf:inception": "2009-08-13T06:37:26",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20090813-D-DAL-1100",
     "sfomuseum:flight_number": [
-      "DL1100", 
+      "DL1100",
       "DAL1100"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102087579, 
-      102527513, 
-      102191575, 
-      1159396337, 
-      85633793, 
-      1545074553
+      85922583,
+      85688637,
+      102087579,
+      102527513,
+      102191575,
+      1159396337,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1582666641,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545074553,
-    "wof:lastmodified": 1582666641,
+    "wof:lastmodified": 1717011304,
     "wof:name": "DAL1100 (SFO-SLC)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-111.980566,40.78217]],"type":"MultiPoint"}

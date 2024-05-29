@@ -2,6 +2,10 @@
   "id": 1545069109,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-07-07",
+    "date:cessation_upper": "2009-07-07",
+    "date:inception_lower": "2009-07-01",
+    "date:inception_upper": "2009-07-31",
     "edtf:cessation": "2009-07-07T11:30:34",
     "edtf:inception": "2009-07-07~",
     "flysfo:airline": "YX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533051,
     "sfomuseum:flight_id": "20090707-A-MEP-89",
     "sfomuseum:flight_number": [
-      "YX89", 
+      "YX89",
       "MEP89"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      85633793, 
-      1159396337, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1545069109
+      85922583,
+      85688637,
+      85633793,
+      1159396337,
+      102527513,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582665871,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545069109,
-    "wof:lastmodified": 1582665871,
+    "wof:lastmodified": 1717011307,
     "wof:name": "MEP89 (MCI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -94.716176, 
+    -122.370943,
+    37.61799,
+    -94.716176,
     39.304107
   ],
   "geometry": {"coordinates":[[-94.716176,39.304107],[-122.370943,37.61799]],"type":"MultiPoint"}

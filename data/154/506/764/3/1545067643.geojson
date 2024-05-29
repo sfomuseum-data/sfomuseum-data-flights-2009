@@ -2,6 +2,10 @@
   "id": 1545067643,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-06-27",
+    "date:cessation_upper": "2009-06-27",
+    "date:inception_lower": "2009-06-01",
+    "date:inception_upper": "2009-06-30",
     "edtf:cessation": "2009-06-27T07:52:39",
     "edtf:inception": "2009-06-27~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20090627-A-UAL-553",
     "sfomuseum:flight_number": [
-      "UA553", 
+      "UA553",
       "UAL553"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159396337, 
-      85633793, 
-      102087579, 
-      1545067643, 
-      85922583, 
-      85688637, 
-      102527513, 
+      1159396337,
+      85633793,
+      102087579,
+      85922583,
+      85688637,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545067643,
-    "wof:lastmodified": 1582665684,
+    "wof:lastmodified": 1717011306,
     "wof:name": "UAL553 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

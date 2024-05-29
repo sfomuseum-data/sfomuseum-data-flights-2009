@@ -2,6 +2,10 @@
   "id": 1562037029,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-08-01",
+    "date:cessation_upper": "2009-08-31",
+    "date:inception_lower": "2009-08-17",
+    "date:inception_upper": "2009-08-17",
     "edtf:cessation": "2009-08-17~",
     "edtf:inception": "2009-08-17T12:41:13",
     "flysfo:airline": "YX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20090817-D-MEP-228",
     "sfomuseum:flight_number": [
-      "YX228", 
+      "YX228",
       "MEP228"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1159396337, 
-      102191575, 
-      102087579, 
-      1562037029, 
-      85688637, 
-      85633793, 
+      102527513,
+      1159396337,
+      102191575,
+      102087579,
+      85688637,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562037029,
-    "wof:lastmodified": 1582666743,
+    "wof:lastmodified": 1717011343,
     "wof:name": "MEP228 (SFO-MCI)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -94.716176, 
+    -122.370943,
+    37.61799,
+    -94.716176,
     39.304107
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-94.716176,39.304107]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1545154935,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-12-19",
+    "date:cessation_upper": "2009-12-19",
+    "date:inception_lower": "2009-12-01",
+    "date:inception_upper": "2009-12-31",
     "edtf:cessation": "2009-12-19T14:22:00",
     "edtf:inception": "2009-12-19~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20091219-A-SWA-2251",
     "sfomuseum:flight_number": [
-      "WN2251", 
+      "WN2251",
       "SWA2251"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1545154935, 
-      85688637, 
-      102191575, 
-      85922583, 
-      1159396337, 
-      85633793, 
-      102087579, 
+      85688637,
+      102191575,
+      85922583,
+      1159396337,
+      85633793,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545154935,
-    "wof:lastmodified": 1582668854,
+    "wof:lastmodified": 1717011312,
     "wof:name": "SWA2251 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1561921239,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-05-01",
+    "date:cessation_upper": "2009-05-31",
+    "date:inception_lower": "2009-05-30",
+    "date:inception_upper": "2009-05-30",
     "edtf:cessation": "2009-05-30~",
     "edtf:inception": "2009-05-30T11:35:28",
     "flysfo:airline": "HA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20090530-D-HAL-11",
     "sfomuseum:flight_number": [
-      "HA11", 
+      "HA11",
       "HAL11"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      1561921239, 
-      85688637, 
-      85922583, 
-      1159396337, 
-      102191575, 
+      102527513,
+      85633793,
+      85688637,
+      85922583,
+      1159396337,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561921239,
-    "wof:lastmodified": 1582665171,
+    "wof:lastmodified": 1717011327,
     "wof:name": "HAL11 (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-157.918416,21.332508]],"type":"MultiPoint"}

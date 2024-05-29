@@ -2,6 +2,10 @@
   "id": 1562069017,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-09-08",
+    "date:cessation_upper": "2009-09-08",
+    "date:inception_lower": "2009-09-01",
+    "date:inception_upper": "2009-09-30",
     "edtf:cessation": "2009-09-08T17:08:30",
     "edtf:inception": "2009-09-08~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20090908-A-SWA-1308",
     "sfomuseum:flight_number": [
-      "WN1308", 
+      "WN1308",
       "SWA1308"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1562069017, 
-      85922583, 
-      1159396337, 
-      102191575, 
-      102087579, 
-      85688637, 
+      85633793,
+      85922583,
+      1159396337,
+      102191575,
+      102087579,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562069017,
-    "wof:lastmodified": 1582667216,
+    "wof:lastmodified": 1717011346,
     "wof:name": "SWA1308 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1562092449,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-09-25",
+    "date:cessation_upper": "2009-09-25",
+    "date:inception_lower": "2009-09-01",
+    "date:inception_upper": "2009-09-30",
     "edtf:cessation": "2009-09-25T18:37:14",
     "edtf:inception": "2009-09-25~",
     "flysfo:airline": "",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530589,
     "sfomuseum:flight_id": "20090925-A-ABX-405",
     "sfomuseum:flight_number": [
-      "405", 
+      "405",
       "ABX405"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396337, 
-      102191575, 
-      102087579, 
-      102527513, 
-      1562092449, 
-      85922583, 
+      85688637,
+      1159396337,
+      102191575,
+      102087579,
+      102527513,
+      85922583,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562092449,
-    "wof:lastmodified": 1582667578,
+    "wof:lastmodified": 1717011343,
     "wof:name": "ABX405 (MHR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -121.299236, 
+    -122.370943,
+    37.61799,
+    -121.299236,
     38.565316
   ],
   "geometry": {"coordinates":[[-121.299236,38.565316],[-122.370943,37.61799]],"type":"MultiPoint"}

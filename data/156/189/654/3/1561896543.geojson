@@ -2,6 +2,10 @@
   "id": 1561896543,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-05-01",
+    "date:cessation_upper": "2009-05-31",
+    "date:inception_lower": "2009-05-12",
+    "date:inception_upper": "2009-05-12",
     "edtf:cessation": "2009-05-12~",
     "edtf:inception": "2009-05-12T08:24:11",
     "flysfo:airline": "NW",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20090512-D-NWA-340",
     "sfomuseum:flight_number": [
-      "NW340", 
+      "NW340",
       "NWA340"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      102191575, 
-      85922583, 
-      85688637, 
-      1159396337, 
-      102527513, 
-      1561896543
+      85633793,
+      102087579,
+      102191575,
+      85922583,
+      85688637,
+      1159396337,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1582664788,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561896543,
-    "wof:lastmodified": 1582664788,
+    "wof:lastmodified": 1717011328,
     "wof:name": "NWA340 (SFO-DTW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -83.351709, 
+    -122.370943,
+    37.61799,
+    -83.351709,
     42.21886
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-83.351709,42.21886]],"type":"MultiPoint"}

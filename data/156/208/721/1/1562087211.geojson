@@ -2,6 +2,10 @@
   "id": 1562087211,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-09-01",
+    "date:cessation_upper": "2009-09-30",
+    "date:inception_lower": "2009-09-22",
+    "date:inception_upper": "2009-09-22",
     "edtf:cessation": "2009-09-22~",
     "edtf:inception": "2009-09-22T01:27:17",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20090922-D-AAL-1776",
     "sfomuseum:flight_number": [
-      "AA1776", 
+      "AA1776",
       "AAL1776"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159396337, 
-      102527513, 
-      85633793, 
-      102191575, 
-      85922583, 
-      102087579, 
-      1562087211
+      85688637,
+      1159396337,
+      102527513,
+      85633793,
+      102191575,
+      85922583,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1582667495,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562087211,
-    "wof:lastmodified": 1582667495,
+    "wof:lastmodified": 1717011346,
     "wof:name": "AAL1776 (SFO-DFW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}

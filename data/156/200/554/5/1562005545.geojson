@@ -2,6 +2,10 @@
   "id": 1562005545,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-07-27",
+    "date:cessation_upper": "2009-07-27",
+    "date:inception_lower": "2009-07-01",
+    "date:inception_upper": "2009-07-31",
     "edtf:cessation": "2009-07-27T09:19:46",
     "edtf:inception": "2009-07-27~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102532047,
     "sfomuseum:flight_id": "20090727-A-UAL-297",
     "sfomuseum:flight_number": [
-      "UA297", 
+      "UA297",
       "UAL297"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      85688637, 
-      1159396337, 
-      102087579, 
-      85922583, 
-      102191575, 
-      1562005545
+      102527513,
+      85633793,
+      85688637,
+      1159396337,
+      102087579,
+      85922583,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582666286,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562005545,
-    "wof:lastmodified": 1582666286,
+    "wof:lastmodified": 1717011337,
     "wof:name": "UAL297 (BWI-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -76.67107, 
+    -122.370943,
+    37.61799,
+    -76.67107,
     39.181319
   ],
   "geometry": {"coordinates":[[-76.67107,39.181319],[-122.370943,37.61799]],"type":"MultiPoint"}

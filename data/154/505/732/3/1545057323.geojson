@@ -2,6 +2,10 @@
   "id": 1545057323,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-04-13",
+    "date:cessation_upper": "2009-04-13",
+    "date:inception_lower": "2009-04-01",
+    "date:inception_upper": "2009-04-30",
     "edtf:cessation": "2009-04-13T16:29:27",
     "edtf:inception": "2009-04-13~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20090413-A-SWA-1022",
     "sfomuseum:flight_number": [
-      "WN1022", 
+      "WN1022",
       "SWA1022"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1545057323, 
-      1159396337, 
-      102087579, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102527513, 
+      1159396337,
+      102087579,
+      102191575,
+      85633793,
+      85922583,
+      102527513,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545057323,
-    "wof:lastmodified": 1582664174,
+    "wof:lastmodified": 1717011306,
     "wof:name": "SWA1022 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1562133561,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-10-01",
+    "date:cessation_upper": "2009-10-31",
+    "date:inception_lower": "2009-10-26",
+    "date:inception_upper": "2009-10-26",
     "edtf:cessation": "2009-10-26~",
     "edtf:inception": "2009-10-26T08:58:24",
     "flysfo:airline": "NW",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20091026-D-NWA-9900",
     "sfomuseum:flight_number": [
-      "NW9900", 
+      "NW9900",
       "NWA9900"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85688637, 
-      1562133561, 
-      102527513, 
-      102191575, 
-      85922583, 
-      1159396337, 
+      85633793,
+      85688637,
+      102527513,
+      102191575,
+      85922583,
+      1159396337,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1562133561,
-    "wof:lastmodified": 1582668120,
+    "wof:lastmodified": 1717011349,
     "wof:name": "NWA9900 (SFO-MSP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-93.200317,44.883321]],"type":"MultiPoint"}

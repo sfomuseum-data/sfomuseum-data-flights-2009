@@ -2,6 +2,10 @@
   "id": 1561945723,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-06-01",
+    "date:cessation_upper": "2009-06-30",
+    "date:inception_lower": "2009-06-16",
+    "date:inception_upper": "2009-06-16",
     "edtf:cessation": "2009-06-16~",
     "edtf:inception": "2009-06-16T11:24:42",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20090616-D-UAL-830",
     "sfomuseum:flight_number": [
-      "UA830", 
+      "UA830",
       "UAL830"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      102087579, 
-      85922583, 
-      1159396337, 
-      1561945723, 
-      85688637, 
+      102527513,
+      102191575,
+      102087579,
+      85922583,
+      1159396337,
+      85688637,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561945723,
-    "wof:lastmodified": 1582665484,
+    "wof:lastmodified": 1717011332,
     "wof:name": "UAL830 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}

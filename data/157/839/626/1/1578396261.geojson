@@ -2,6 +2,10 @@
   "id": 1578396261,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-12-01",
+    "date:cessation_upper": "2009-12-31",
+    "date:inception_lower": "2009-12-27",
+    "date:inception_upper": "2009-12-27",
     "edtf:cessation": "2009-12-27~",
     "edtf:inception": "2009-12-27T14:43:54",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20091227-D-SWA-5728",
     "sfomuseum:flight_number": [
-      "WN5728", 
+      "WN5728",
       "SWA5728"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      1159396337, 
-      102087579, 
-      85688637, 
-      85633793, 
-      102191575, 
-      1578396261
+      85922583,
+      102527513,
+      1159396337,
+      102087579,
+      85688637,
+      85633793,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1582669011,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1578396261,
-    "wof:lastmodified": 1582669011,
+    "wof:lastmodified": 1717011302,
     "wof:name": "SWA5728 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

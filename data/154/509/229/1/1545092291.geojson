@@ -2,6 +2,10 @@
   "id": 1545092291,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-11-01",
+    "date:cessation_upper": "2009-11-01",
+    "date:inception_lower": "2009-11-01",
+    "date:inception_upper": "2009-11-30",
     "edtf:cessation": "2009-11-01T17:33:35",
     "edtf:inception": "2009-11-01~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20091101-A-UAL-519",
     "sfomuseum:flight_number": [
-      "UA519", 
+      "UA519",
       "UAL519"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102191575, 
-      102087579, 
-      1545092291, 
-      85922583, 
-      85688637, 
-      102527513, 
+      85633793,
+      102191575,
+      102087579,
+      85922583,
+      85688637,
+      102527513,
       1159396337
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1545092291,
-    "wof:lastmodified": 1582668208,
+    "wof:lastmodified": 1717011303,
     "wof:name": "UAL519 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

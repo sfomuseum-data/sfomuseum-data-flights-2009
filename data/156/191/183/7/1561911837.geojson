@@ -2,6 +2,10 @@
   "id": 1561911837,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2009-05-23",
+    "date:cessation_upper": "2009-05-23",
+    "date:inception_lower": "2009-05-01",
+    "date:inception_upper": "2009-05-31",
     "edtf:cessation": "2009-05-23T13:28:51",
     "edtf:inception": "2009-05-23~",
     "flysfo:airline": "CO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527529,
     "sfomuseum:flight_id": "20090523-A-COA-548",
     "sfomuseum:flight_number": [
-      "CO548", 
+      "CO548",
       "COA548"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      1561911837, 
-      85688637, 
-      1159396337, 
-      102191575, 
-      102087579, 
+      85922583,
+      85633793,
+      85688637,
+      1159396337,
+      102191575,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1561911837,
-    "wof:lastmodified": 1582665042,
+    "wof:lastmodified": 1717011327,
     "wof:name": "COA548 (SJC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2009",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.363728, 
-    -121.928755, 
+    -122.370943,
+    37.363728,
+    -121.928755,
     37.61799
   ],
   "geometry": {"coordinates":[[-121.928755,37.363728],[-122.370943,37.61799]],"type":"MultiPoint"}
